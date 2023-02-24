@@ -7,6 +7,7 @@
 #    n+=1
 # print(sum)    
 # for 迴圈
+# 1+2+3+...+10
 sum=0
 for n in range(1,11):
     sum=sum+n
